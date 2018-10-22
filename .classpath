@@ -13,5 +13,6 @@
 	<classpathentry kind="lib" path="/Users/Sadek/Documents/GitHub/HomeworkFW/JARS/httpcore-4.4.9.jar"/>
 	<classpathentry kind="lib" path="/Users/Sadek/Documents/GitHub/HomeworkFW/JARS/okhttp-3.10.0.jar"/>
 	<classpathentry kind="lib" path="/Users/Sadek/Documents/GitHub/HomeworkFW/JARS/okio-1.14.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
